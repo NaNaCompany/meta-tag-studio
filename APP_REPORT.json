@@ -1,0 +1,14 @@
+{
+  "ideaId": "W030",
+  "slug": "meta-tag-studio",
+  "title": "웹 메타태그 작성기",
+  "ready": true,
+  "summary": "Local six-language HTML head, Open Graph and Twitter card tag generator with illustrative preview.",
+  "features": ["Escaped title and HTML attributes", "HTTP(S) canonical/image validation", "Optional image, site name and image alt", "Copy and UTF-8 HTML fragment download", "Original localized examples", "No external image requests"],
+  "tests": [{"name":"Node syntax: app.js and core.js","pass":true},{"name":"3 independent Node fixtures: escaping, optional fields, invalid inputs","pass":true},{"name":"Six route HTML files present","pass":true}],
+  "limitations": ["Illustrative preview only; no search/social crawler validation", "No browser QA performed", "Language change resets inputs", "Clipboard requires browser permission/secure context"],
+  "sources": ["https://ogp.me/"],
+  "languages": ["ko","en","es","zh","ja","de"],
+  "languageRoutes": {"ko":"/","en":"/en/","es":"/es/","zh":"/zh/","ja":"/ja/","de":"/de/"},
+  "entry": "dist/index.html"
+}

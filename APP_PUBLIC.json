@@ -1,0 +1,59 @@
+{
+  "slug": "meta-tag-studio",
+  "url": "https://nanalab.kr/meta-tag-studio/",
+  "languages": [
+    "ko",
+    "en",
+    "es",
+    "zh",
+    "ja",
+    "de"
+  ],
+  "locales": {
+    "ko": {
+      "name": "웹 메타태그 작성기",
+      "description": "제목·설명·URL·이미지 정보를 입력해 HTML head·Open Graph·Twitter 카드 태그를 생성하세요.",
+      "image_alt": "웹 메타태그 작성기"
+    },
+    "en": {
+      "name": "Meta Tag Studio",
+      "description": "Enter a title, description, URL and image details to generate HTML head, Open Graph and Twitter card tags.",
+      "image_alt": "Meta Tag Studio"
+    },
+    "es": {
+      "name": "Estudio de metaetiquetas",
+      "description": "Introduce título, descripción, URL e imagen para generar etiquetas HTML head, Open Graph y tarjetas de Twitter.",
+      "image_alt": "Estudio de metaetiquetas"
+    },
+    "zh": {
+      "name": "网页元标签生成器",
+      "description": "输入标题、描述、URL 与图片信息，生成 HTML head、Open Graph 和 Twitter 卡片标签。",
+      "image_alt": "网页元标签生成器"
+    },
+    "ja": {
+      "name": "Webメタタグ作成",
+      "description": "タイトル・説明・URL・画像情報からHTML head、Open Graph、Twitterカードのタグを作成できます。",
+      "image_alt": "Webメタタグ作成"
+    },
+    "de": {
+      "name": "Meta-Tag-Studio",
+      "description": "Geben Sie Titel, Beschreibung, URL und Bilddaten ein, um HTML-Head-, Open-Graph- und Twitter-Card-Tags zu erstellen.",
+      "image_alt": "Meta-Tag-Studio"
+    },
+    "fr": {
+      "name": "Atelier de métadonnées",
+      "description": "Saisissez un titre, une description, une URL et les informations d'image pour générer des balises HTML head, Open Graph et Twitter Card.",
+      "image_alt": "Atelier de métadonnées"
+    },
+    "pt": {
+      "name": "Estúdio de metatags",
+      "description": "Informe título, descrição, URL e dados de imagem para gerar tags HTML head, Open Graph e cartões do Twitter.",
+      "image_alt": "Estúdio de metatags"
+    },
+    "ru": {
+      "name": "Мастерская метатегов",
+      "description": "Введите заголовок, описание, URL и данные изображения, чтобы создать теги HTML head, Open Graph и карточки Twitter.",
+      "image_alt": "Мастерская метатегов"
+    }
+  }
+}
